@@ -85,4 +85,3 @@ public class Task_1 {
         return result;
     }
 }
-
